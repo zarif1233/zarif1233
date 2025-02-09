@@ -5,6 +5,18 @@ img{
 
 img{
 	width:60%;  height: 70%; 
-	width:60%;  height: 70%; 
-	shape-image-threshold: circle ;
+	width:60%;  height: 60%; 
+
 } 
+p{
+	color: #000099  ; 
+	font-size: 1.2 rem ;
+}	
+   
+
+.y{
+	background-color: #CCCCFF;
+	}
+h1{
+	color: #000099 ;
+}
